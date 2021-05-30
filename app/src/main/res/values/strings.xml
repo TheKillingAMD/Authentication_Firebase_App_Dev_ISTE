@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Authentication</string>
+    <string name="or">OR</string>
+    <string name="signup_btn">signup_btn</string>
+    <string name="password_hint">Enter Password</string>
+    <string name="login_btn">login_btn</string>
+    <string name="email_hint">email_hint</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="enter_email">Enter Email</string>
+</resources>
